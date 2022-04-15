@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.992 sec <<< FAILURE! - in TestSuite
+deleteUser(testing.Testing3)  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.AssertionError: 
+The following asserts failed:
+	Verifying Element expected [true] but found [false]
+	at testing.Testing3.deleteUser(Testing3.java:34)
+
